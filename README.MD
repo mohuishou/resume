@@ -1,10 +1,11 @@
 # 联系方式
-- 手机: 15680698256
-- Email: 1@lailin.xyz
-- QQ: 306755605
+- 手机: 156********
+- 地址: 四川省成都市***
+- Email: 
+- QQ: 
 
 # 个人信息
-- 赖林/男/1995
+- **/男
 - 本科/四川大学电子信息工程(卓越工程师班)
 - Github: [https://github.com/mohuishou](https://github.com/mohuishou)
 - 技术博客: [https://lailin.xyz/](https://lailin.xyz/)
