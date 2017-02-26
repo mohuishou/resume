@@ -13,19 +13,6 @@
 - 期望职位: 后台开发工程师/后端开发工程师
 
 # 项目经历
-## 网站项目
-
-### 上海舍宅坊室内设计(2015.7~2015.8)
-
-- 网址: [http://www.szfdesign.com/](http://www.szfdesign.com/)
-
-### 和点设计(2016.7~2016.8)
-
-- 网址: [http://hdesign10.cn/](http://hdesign10.cn/)
-
-### 亚洲室内设计网(2017.1~2017.3)
-
-- 网址: [测试地址，网站尚未上线](http://lxl520.com/szf/)
 
 ## 校园项目
 
@@ -33,7 +20,7 @@
 
 该项目前端使用html5+css3+javascript构建，后端API使用Lumen5.2构建，采用左右滑动的卡片式设计
 
-该项目是SCUPLUS项目解耦的成果之一,也是我独自完成的项目之一。
+该项目是SCUPLUS项目解耦的成果之一
 
 该项目的前身是一键评教项目(已下架)，一键评教上线2天用户超过4000+，访问量超过8000余次，但是同时也比较严重的影响了学校的教务系统，新的快捷评教项目只是教务处评教的移动化，简化方案。在评教时间接近尾声上线的情况下也有将近400位用户使用
 
@@ -60,14 +47,45 @@ Github: [https://github.com/mohuishou/gpa-v2](https://github.com/mohuishou/gpa-v
 
 该项目经过了三个版本迭代，但是由于耦合比较严重还未正式上线。
 
-- Github: 
+Github: 
   - 后端: [https://github.com/mohuishou/scuplus](https://github.com/mohuishou/scuplus)
   - 前端: [https://github.com/mohuishou/scuplus-html](https://github.com/mohuishou/scuplus-html)
 
-## 比赛项目
+## 智能硬件项目
 
 ### 婴儿智能监护系统
 
+该项目为智能硬件项目，主要用于婴儿车。团队中我主要负责手机APP以及后端API的构建
+
+APP采用Html5+Css3+Javascript+Appcan构建，后端api使用ThinkPHP构建
+
+该项目有两个APP，分为家长APP与婴儿APP，实现了视频通话（天翼RTC），成长日记，环境检测（温度、亮度等），晃动预警等功能，手机APP使用蓝牙与硬件模块进行通信
+
+该项目在四川大学第一届“五粮春杯”科技创新大赛作品类当中获得了一等奖
+
+### 智能车锁
+
+该项目为智能硬件项目，主要用于自行车。团队中我主要负责手机APP以及后端API的构建
+
+APP采用Html5+Css3+Javascript+Apicloud构建，后端api使用workman构建
+
+该项目主要实现监控车锁地理位置，盗车警告，GPS路径规划等功能。硬件与服务器，App与服务器钧使用tcp保持连接
+
+该项目在四川大学第十三届“锦电杯”科技创新大赛当中获得了一等奖
+
+## 网站项目
+
+### 上海舍宅坊室内设计(2015.7~2015.8)
+
+- 网址: [http://www.szfdesign.com/](http://www.szfdesign.com/)
+
+### 和点设计(2016.7~2016.8)
+
+- 网址: [http://hdesign10.cn/](http://hdesign10.cn/)
+
+### 亚洲室内设计网(2017.1~2017.3)
+
+- 网址: [测试地址，网站尚未上线](http://lxl520.com/szf/)
 
 ## 开源项目
 
