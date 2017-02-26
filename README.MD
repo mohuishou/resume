@@ -71,7 +71,7 @@ APP采用Html5+Css3+Javascript+Apicloud构建，后端api使用workman构建
 
 该项目主要实现监控车锁地理位置，盗车警告，GPS路径规划等功能。硬件与服务器，App与服务器钧使用tcp保持连接
 
-该项目在四川大学第十三届“锦电杯”科技创新大赛当中获得了一等奖
+该项目在四川大学第十三届“锦电杯”科技创新大赛当中获得了二等奖
 
 ## 网站项目
 
@@ -91,11 +91,19 @@ APP采用Html5+Css3+Javascript+Apicloud构建，后端api使用workman构建
 
 ### ImageOCR
 
-- Github: [https://github.com/mohuishou/ImageOCR](https://github.com/mohuishou/ImageOCR)
+该项目由PHP构建，主要用于验证码识别，这也是我Star数目最多的一个项目：Github：17，开源中国：34 并且为开源中国的推荐项目
+
+通过二值化图片之后，建立特征库比对，达到图像识别的目的。
+
+Github: [https://github.com/mohuishou/ImageOCR](https://github.com/mohuishou/ImageOCR)
 
 ### 四川大学教务API
 
-- Github:
+该项目分为PHP，Golang两个版本，PHP版本已完成，Golang版本还在开发中
+
+该项目主要通过抓取、解析登录之后的教务处页面，获得所需要的成绩/课程表/个人信息/培养方案/评教/所有课程/所有教师/空余教室等信息，并且可以完成评教/选课等操作
+
+Github:
   - PHP: [https://github.com/mohuishou/scuplus-jwc-package](https://github.com/mohuishou/scuplus-jwc-package)
   - Golang: [https://github.com/mohuishou/scujwc-go](https://github.com/mohuishou/scujwc-go)
 
